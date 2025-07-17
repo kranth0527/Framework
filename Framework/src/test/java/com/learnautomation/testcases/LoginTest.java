@@ -12,6 +12,7 @@ public class LoginTest extends BaseClass {
 	@Test
 	public void loginApp()
 
+
 	{
 
 		logger = report.createTest("LoginTest");
